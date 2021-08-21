@@ -106,7 +106,7 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Exto Theme
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: Sunartha Project Portfolio
     - name: 'twitter:image'
       value: /images/example-page-63380a00.JPG
       relativeUrl: true
