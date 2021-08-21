@@ -7,9 +7,9 @@ sections:
     title: |-
       Empowering Your Business to 
          Achieve The Desired Growth.
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Sunartha offers Integrated business solutions to help Empower business
+      owners in order to accelerate the Growth of their company.
     actions:
       - label: Let's talk
         url: /contact
