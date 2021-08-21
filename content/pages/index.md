@@ -95,7 +95,7 @@ seo:
       value: Sunartha Portfolio
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: Sunartha Project Portfolio
       keyName: property
     - name: 'og:image'
       value: /images/example-page.JPG
