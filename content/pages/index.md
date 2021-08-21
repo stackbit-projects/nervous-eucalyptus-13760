@@ -13,7 +13,7 @@ sections:
     actions:
       - label: Contact Us
         url: /contact
-        style: link
+        style: button
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
