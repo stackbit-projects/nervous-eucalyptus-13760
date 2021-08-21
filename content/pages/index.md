@@ -86,7 +86,7 @@ sections:
         style: button
 seo:
   title: Sunartha Portfolio
-  description: The preview of the Exto theme
+  description: Sunartha Project Portfolio
   extra:
     - name: 'og:type'
       value: website
