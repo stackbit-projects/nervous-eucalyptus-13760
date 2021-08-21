@@ -4,7 +4,7 @@ subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: /images/photo-1460925895917-afdab827c52f.webp
 thumb_image_alt: An orange on a blue background
-image: images/2.jpg
+image: /images/11_thumb.jpg
 image_alt: An orange on a blue background
 seo:
   title: Project Title 2
