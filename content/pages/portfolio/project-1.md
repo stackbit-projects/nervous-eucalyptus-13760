@@ -1,5 +1,5 @@
 ---
-title: Project Title 1
+title: Acumatica Manufacturing
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: /images/9-329c2af6.jpg
