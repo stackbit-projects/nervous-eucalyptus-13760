@@ -11,7 +11,7 @@ sections:
       Sunartha offers Integrated business solutions to help Empower business
       owners in order to accelerate the Growth of their company.
     actions:
-      - label: Let's talk
+      - label: Contact Us
         url: /contact
         style: button
   - section_id: latest-projects
