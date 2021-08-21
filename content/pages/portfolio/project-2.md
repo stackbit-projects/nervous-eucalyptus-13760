@@ -1,5 +1,5 @@
 ---
-title: Project Title 2
+title: Tableau 360 HR Dashboard
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: /images/photo-1460925895917-afdab827c52f.webp
