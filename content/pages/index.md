@@ -104,7 +104,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Exto Theme
+      value: Sunartha Portfolio
     - name: 'twitter:description'
       value: Sunartha Project Portfolio
     - name: 'twitter:image'
